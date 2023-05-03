@@ -1,3 +1,13 @@
+''' FOR OUTPUT:
+
+Enter number of rows:
+4
+   A
+  BCD
+ EFGHI
+JKLMNO
+
+'''
 n = int(input("Enter number of rows: \n"))
 i = 1
 ch = 'A'
