@@ -6,8 +6,8 @@ Enter number of rows:
   BCD
  EFGHI
 JKLMNO
-
 '''
+
 n = int(input("Enter number of rows: \n"))
 i = 1
 ch = 'A'
