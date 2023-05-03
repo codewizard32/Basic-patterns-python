@@ -1,3 +1,14 @@
+'''FOR OUTPUT 
+
+Enter number of rows:
+4
+   A
+  BCD
+ EFGHI
+JKLMNO
+'''
+
+
 n = int(input())
 # 'n' must be odd
 for i in range(n):
