@@ -1,3 +1,14 @@
+'''FOR OUTPUT 
+
+enter no.of rows : 
+5
+*
+**
+***
+****
+*****
+'''
+
 n = int(input("enter no.of rows : \n"))
 i = 1
 while i <= n:
